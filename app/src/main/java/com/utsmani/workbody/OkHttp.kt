@@ -1,6 +1,6 @@
 package com.utsmani.workbody
 
-import okhttp3.OkHttpClient;
+import okhttp3.OkHttpClient
 import okhttp3.Request
 
 
@@ -13,4 +13,4 @@ val request = Request.Builder()
     .addHeader("x-rapidapi-key", "9e79f5f7a8mshb11af780fad9f18p1c4ebdjsn1da52421db86")
     .build()
 
-val response = client.newCall(request).execute();
+val response = client.newCall(request).execute()
