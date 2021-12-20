@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154734650524",
+    "project_id": "workout-app-51cc9",
+    "storage_bucket": "workout-app-51cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154734650524:android:a2f2a436825c3c553cb959",
+        "android_client_info": {
+          "package_name": "com.utsmani.workout_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154734650524-jh98pfsarrhlcru5jqcqh36haqp07g4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBisnDblI1s4RHYkuB25SR9xH5IfQxsTJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154734650524-jh98pfsarrhlcru5jqcqh36haqp07g4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

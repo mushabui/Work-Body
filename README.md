@@ -1,6 +1,6 @@
-# flutter_app
+# workout_app
 
-A new Flutter application.
+A Workout Flutter application.
 
 ## Getting Started
 
