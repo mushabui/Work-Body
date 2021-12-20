@@ -1,4 +1,4 @@
-# workout_app
+# workout app
 
 A Workout Flutter application.
 
