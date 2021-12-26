@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_app/core/extensions/exceptions.dart';
-import 'package:workout_app/core/service/auth_service.dart';
+import 'package:workoutapp/core/extensions/exceptions.dart';
+import 'package:workoutapp/core/service/auth_service.dart';
 
 class UserService {
   static final FirebaseAuth firebase = FirebaseAuth.instance;

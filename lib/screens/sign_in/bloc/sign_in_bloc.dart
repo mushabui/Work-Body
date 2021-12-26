@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:workout_app/core/service/auth_service.dart';
-import 'package:workout_app/core/service/validation_service.dart';
+import 'package:workoutapp/core/service/auth_service.dart';
+import 'package:workoutapp/core/service/validation_service.dart';
 import 'package:flutter/material.dart';
 
 part 'sign_in_event.dart';

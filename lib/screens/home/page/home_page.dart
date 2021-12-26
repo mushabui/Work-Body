@@ -1,5 +1,5 @@
-import 'package:workout_app/screens/home/bloc/home_bloc.dart';
-import 'package:workout_app/screens/home/widget/home_content.dart';
+import 'package:workoutapp/screens/home/bloc/home_bloc.dart';
+import 'package:workoutapp/screens/home/widget/home_content.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

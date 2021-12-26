@@ -1,5 +1,5 @@
 import 'package:custom_timer/custom_timer.dart';
-import 'package:workout_app/core/service/date_service.dart';
+import 'package:workoutapp/core/service/date_service.dart';
 import 'package:flutter/material.dart';
 
 class StartWorkoutTimer extends StatefulWidget {

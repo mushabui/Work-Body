@@ -1,12 +1,12 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/data_constants.dart';
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/screens/edit_account/edit_account_screen.dart';
-import 'package:workout_app/screens/home/bloc/home_bloc.dart';
-import 'package:workout_app/screens/home/widget/home_statistics.dart';
-import 'package:workout_app/screens/workout_details_screen/page/workout_details_page.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/data_constants.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/screens/edit_account/edit_account_screen.dart';
+import 'package:workoutapp/screens/home/bloc/home_bloc.dart';
+import 'package:workoutapp/screens/home/widget/home_statistics.dart';
+import 'package:workoutapp/screens/workout_details_screen/page/workout_details_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -16,16 +16,6 @@ class HomeContent extends StatelessWidget {
   const HomeContent({
     Key? key,
   }) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      color: ColorConstants.homeBackgroundColor,
-      height: double.infinity,
-      width: double.infinity,
-      child: _createHomeBody(context),
-    );
-  }
 
   Widget _createHomeBody(BuildContext context) {
     return SafeArea(
@@ -198,6 +188,16 @@ class HomeContent extends StatelessWidget {
           ),
         ],
       ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: ColorConstants.homeBackgroundColor,
+      height: double.infinity,
+      width: double.infinity,
+      child: _createHomeBody(context),
     );
   }
 }

@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:workout_app/core/service/firebase_storage_service.dart';
-import 'package:workout_app/core/service/user_service.dart';
+import 'package:workoutapp/core/service/firebase_storage_service.dart';
+import 'package:workoutapp/core/service/user_service.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:meta/meta.dart';
 

@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/service/notification_service.dart';
-import 'package:workout_app/screens/onboarding/page/onboarding_page.dart';
-import 'package:workout_app/screens/tab_bar/page/tab_bar_page.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/service/notification_service.dart';
+import 'package:workoutapp/screens/onboarding/page/onboarding_page.dart';
+import 'package:workoutapp/screens/tab_bar/page/tab_bar_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
@@ -62,5 +62,5 @@ class _MyAppState extends State<MyApp> {
         );
       },
     );
-  }
+  }  
 }

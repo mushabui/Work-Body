@@ -1,10 +1,10 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/core/service/validation_service.dart';
-import 'package:workout_app/screens/common_widgets/fitness_button.dart';
-import 'package:workout_app/screens/common_widgets/fitness_loading.dart';
-import 'package:workout_app/screens/common_widgets/fitness_text_field.dart';
-import 'package:workout_app/screens/forgot_password/bloc/forgot_password_bloc.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/core/service/validation_service.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_button.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_loading.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_text_field.dart';
+import 'package:workoutapp/screens/forgot_password/bloc/forgot_password_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,4 +1,4 @@
-import 'package:workout_app/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
 import 'package:flutter/material.dart';
 
 class SettingsContainer extends StatelessWidget {

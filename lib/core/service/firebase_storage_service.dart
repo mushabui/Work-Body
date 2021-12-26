@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:workout_app/core/service/user_service.dart';
+import 'package:workoutapp/core/service/user_service.dart';
 
 class FirebaseStorageService {
   FirebaseStorage storage = FirebaseStorage.instance;

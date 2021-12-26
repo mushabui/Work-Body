@@ -1,7 +1,7 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/data/workout_data.dart';
-import 'package:workout_app/screens/workout_details_screen/widget/panel/workout_details_panel.dart';
-import 'package:workout_app/screens/workout_details_screen/widget/workout_details_body.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/data/workout_data.dart';
+import 'package:workoutapp/screens/workout_details_screen/widget/panel/workout_details_panel.dart';
+import 'package:workoutapp/screens/workout_details_screen/widget/workout_details_body.dart';
 import 'package:flutter/material.dart';
 import 'package:sliding_up_panel/sliding_up_panel.dart';
 

@@ -1,8 +1,8 @@
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/data/workout_data.dart';
-import 'package:workout_app/screens/workout_details_screen/widget/panel/exercises_list.dart';
-import 'package:workout_app/screens/workout_details_screen/widget/panel/workout_tag.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/data/workout_data.dart';
+import 'package:workoutapp/screens/workout_details_screen/widget/panel/exercises_list.dart';
+import 'package:workoutapp/screens/workout_details_screen/widget/panel/workout_tag.dart';
 import 'package:flutter/material.dart';
 
 class WorkoutDetailsPanel extends StatelessWidget {

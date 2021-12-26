@@ -1,8 +1,8 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/data/exercise_data.dart';
-import 'package:workout_app/data/workout_data.dart';
-import 'package:workout_app/screens/workout_details_screen/bloc/workoutdetails_bloc.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/data/exercise_data.dart';
+import 'package:workoutapp/data/workout_data.dart';
+import 'package:workoutapp/screens/workout_details_screen/bloc/workoutdetails_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';

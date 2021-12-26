@@ -1,8 +1,8 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/screens/common_widgets/fitness_button.dart';
-import 'package:workout_app/screens/reminder/bloc/reminder_bloc.dart';
-import 'package:workout_app/screens/reminder/widget/reminder_content.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_button.dart';
+import 'package:workoutapp/screens/reminder/bloc/reminder_bloc.dart';
+import 'package:workoutapp/screens/reminder/widget/reminder_content.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

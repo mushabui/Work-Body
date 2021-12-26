@@ -1,8 +1,8 @@
-import 'package:workout_app/screens/forgot_password/page/forgot_password_page.dart';
-import 'package:workout_app/screens/sign_in/bloc/sign_in_bloc.dart';
-import 'package:workout_app/screens/sign_in/widget/sign_in_content.dart';
-import 'package:workout_app/screens/sign_up/page/sign_up_page.dart';
-import 'package:workout_app/screens/tab_bar/page/tab_bar_page.dart';
+import 'package:workoutapp/screens/forgot_password/page/forgot_password_page.dart';
+import 'package:workoutapp/screens/sign_in/bloc/sign_in_bloc.dart';
+import 'package:workoutapp/screens/sign_in/widget/sign_in_content.dart';
+import 'package:workoutapp/screens/sign_up/page/sign_up_page.dart';
+import 'package:workoutapp/screens/tab_bar/page/tab_bar_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

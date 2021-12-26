@@ -1,16 +1,16 @@
 import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/core/service/validation_service.dart';
-import 'package:workout_app/screens/change_password/change_password_page.dart';
-import 'package:workout_app/screens/common_widgets/fitness_button.dart';
-import 'package:workout_app/screens/common_widgets/fitness_loading.dart';
-import 'package:workout_app/screens/common_widgets/settings_container.dart';
-import 'package:workout_app/screens/common_widgets/settings_textfield.dart';
-import 'package:workout_app/screens/edit_account/bloc/edit_account_bloc.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/core/service/validation_service.dart';
+import 'package:workoutapp/screens/change_password/change_password_page.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_button.dart';
+import 'package:workoutapp/screens/common_widgets/fitness_loading.dart';
+import 'package:workoutapp/screens/common_widgets/settings_container.dart';
+import 'package:workoutapp/screens/common_widgets/settings_textfield.dart';
+import 'package:workoutapp/screens/edit_account/bloc/edit_account_bloc.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

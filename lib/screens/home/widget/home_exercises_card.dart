@@ -1,5 +1,5 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/data/workout_data.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/data/workout_data.dart';
 import 'package:flutter/material.dart';
 
 class WorkoutCard extends StatelessWidget {

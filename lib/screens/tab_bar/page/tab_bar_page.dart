@@ -1,10 +1,10 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/screens/home/page/home_page.dart';
-import 'package:workout_app/screens/settings/settings_screen.dart';
-import 'package:workout_app/screens/tab_bar/bloc/tab_bar_bloc.dart';
-import 'package:workout_app/screens/workouts/page/workouts_page.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/screens/home/page/home_page.dart';
+import 'package:workoutapp/screens/settings/settings_screen.dart';
+import 'package:workoutapp/screens/tab_bar/bloc/tab_bar_bloc.dart';
+import 'package:workoutapp/screens/workouts/page/workouts_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

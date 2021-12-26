@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/data/exercise_data.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/data/exercise_data.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:video_player/video_player.dart';

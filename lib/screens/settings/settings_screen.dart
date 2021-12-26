@@ -1,15 +1,15 @@
 import 'dart:io';
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/core/service/auth_service.dart';
-import 'package:workout_app/screens/common_widgets/settings_container.dart';
-import 'package:workout_app/screens/edit_account/edit_account_screen.dart';
-import 'package:workout_app/screens/reminder/page/reminder_page.dart';
-import 'package:workout_app/screens/settings/bloc/bloc/settings_bloc.dart';
-import 'package:workout_app/screens/sign_in/page/sign_in_page.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/core/service/auth_service.dart';
+import 'package:workoutapp/screens/common_widgets/settings_container.dart';
+import 'package:workoutapp/screens/edit_account/edit_account_screen.dart';
+import 'package:workoutapp/screens/reminder/page/reminder_page.dart';
+import 'package:workoutapp/screens/settings/bloc/bloc/settings_bloc.dart';
+import 'package:workoutapp/screens/sign_in/page/sign_in_page.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -114,15 +114,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 TextButton(
-                    onPressed: () => launch('https://www.facebook.com/perpetio/'),
+                    onPressed: () => launch('https://web.facebook.com/Utsmaniibrahim/'),
                     style: TextButton.styleFrom(shape: CircleBorder(), backgroundColor: Colors.white, elevation: 1),
                     child: Image.asset(PathConstants.facebook)),
                 TextButton(
-                    onPressed: () => launch('https://www.instagram.com/perpetio/'),
+                    onPressed: () => launch('https://www.instagram.com/utsmanii/'),
                     style: TextButton.styleFrom(shape: CircleBorder(), backgroundColor: Colors.white, elevation: 1),
                     child: Image.asset(PathConstants.instagram)),
                 TextButton(
-                    onPressed: () => launch('https://twitter.com/perpetio'),
+                    onPressed: () => launch('https://twitter.com/utsmanii/'),
                     style: TextButton.styleFrom(shape: CircleBorder(), backgroundColor: Colors.white, elevation: 1),
                     child: Image.asset(PathConstants.twitter)),
               ],

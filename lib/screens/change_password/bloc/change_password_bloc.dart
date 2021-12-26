@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/core/service/user_service.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/core/service/user_service.dart';
 import 'package:meta/meta.dart';
 
 part 'change_password_event.dart';

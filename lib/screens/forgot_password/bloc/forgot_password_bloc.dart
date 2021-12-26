@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:bloc/bloc.dart';
-import 'package:workout_app/core/service/auth_service.dart';
+import 'package:workoutapp/core/service/auth_service.dart';
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 

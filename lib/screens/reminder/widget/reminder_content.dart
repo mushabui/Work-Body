@@ -1,7 +1,7 @@
-import 'package:workout_app/core/const/color_constants.dart';
-import 'package:workout_app/core/const/data_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/screens/reminder/bloc/reminder_bloc.dart';
+import 'package:workoutapp/core/const/color_constants.dart';
+import 'package:workoutapp/core/const/data_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/screens/reminder/bloc/reminder_bloc.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

@@ -1,4 +1,4 @@
-import 'package:workout_app/data/exercise_data.dart';
+import 'package:workoutapp/data/exercise_data.dart';
 
 class WorkoutData {
   final String title;

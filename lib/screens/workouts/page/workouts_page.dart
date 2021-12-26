@@ -1,6 +1,6 @@
-import 'package:workout_app/screens/workout_details_screen/page/workout_details_page.dart';
-import 'package:workout_app/screens/workouts/bloc/workouts_bloc.dart';
-import 'package:workout_app/screens/workouts/widget/workout_content.dart';
+import 'package:workoutapp/screens/workout_details_screen/page/workout_details_page.dart';
+import 'package:workoutapp/screens/workouts/bloc/workouts_bloc.dart';
+import 'package:workoutapp/screens/workouts/widget/workout_content.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

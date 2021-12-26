@@ -1,5 +1,5 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_app/core/extensions/exceptions.dart';
+import 'package:workoutapp/core/extensions/exceptions.dart';
 import 'package:flutter/services.dart';
 
 class AuthService {

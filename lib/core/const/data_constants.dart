@@ -1,8 +1,8 @@
-import 'package:workout_app/core/const/path_constants.dart';
-import 'package:workout_app/core/const/text_constants.dart';
-import 'package:workout_app/data/exercise_data.dart';
-import 'package:workout_app/data/workout_data.dart';
-import 'package:workout_app/screens/onboarding/widget/onboarding_tile.dart';
+import 'package:workoutapp/core/const/path_constants.dart';
+import 'package:workoutapp/core/const/text_constants.dart';
+import 'package:workoutapp/data/exercise_data.dart';
+import 'package:workoutapp/data/workout_data.dart';
+import 'package:workoutapp/screens/onboarding/widget/onboarding_tile.dart';
 
 class DataConstants {
   // Onboarding
